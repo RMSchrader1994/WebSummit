@@ -1,0 +1,8 @@
+header{
+    height: 500px;
+    background-image: linear-gradient(-32deg, #0f93d1 0%, #46c5ff 100%);
+}
+footer {
+    height: 500px;
+    background: green; 
+}
